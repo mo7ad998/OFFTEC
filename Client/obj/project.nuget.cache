@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rl9Tm3bTnKkgRvmEbGM5oM1Lw5YBHuw9yM+EHnUi5sSThpFMadG4xlRagIF2OD/0Z31q0XHXT/OPWVXa/3vSCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MO7AD\\Desktop\\Workin Now\\OFFTEC\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MO7AD\\.nuget\\packages\\identitymodel\\6.2.0\\identitymodel.6.2.0.nupkg.sha512",
+    "C:\\Users\\MO7AD\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
